@@ -1,6 +1,10 @@
-### Hi there 👋
+# H'i Anusone, welcome to my Github profile 👋
 
-- 🔭 I’m currently working on my tiktok wenkuku
+
+- 🔭 I’m currently working on my tiktoker Wenkuku
+🔭 I’m currently working on my tiktok Owensidalavilay
+
+🌱 I’m currently learning Font-end, Back-end 
 <!--
 **WenKuKu/WenKuKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
