@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Anusonesidalavilay@gmail.com**
 
+<i class="fa-brands fa-tiktok"></i>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/owen sidalavilay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owen sidalavilay" height="30" width="40" /></a>
