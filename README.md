@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Font-end, Back-end**
 
+<img src="https://cdn.discordapp.com/attachments/745906603986780162/1064837520115904542/Screenshot_180.png">
+
 - 📫 How to reach me **Anusonesidalavilay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
