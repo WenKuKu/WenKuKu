@@ -3,11 +3,10 @@
 
 - 🔭 I’m currently working on my tiktoker Wenkuku
 🔭 I’m currently working on my tiktok Owensidalavilay
-<img src="https://cdn.discordapp.com/attachments/745906603986780162/1064837520115904542/Screenshot_180.png"
 
 🌱 I’m currently learning Font-end, Back-end 
 
-
+<img src="https://cdn.discordapp.com/attachments/745906603986780162/1064837520115904542/Screenshot_180.png">
 <!--
 **WenKuKu/WenKuKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
